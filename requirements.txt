@@ -1,0 +1,16 @@
+attrs==23.2.1.dev0
+cffi==1.17.1
+cryptography==44.0.2
+dbus-python==1.4.0
+distlib==0.3.9
+filelock==3.18.0
+netsnmp-python==1.0a1
+nftables==0.1
+packaging==24.2
+platformdirs==4.3.6
+pycparser==2.22
+PyGObject==3.52.3
+ranger-fm==1.9.4
+Reflector==2023.6.28.0.36.1
+virtualenv==20.28.0
+wheel==0.45.1
